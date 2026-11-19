@@ -1,6 +1,6 @@
 # Hi, I'm John Serafim 👋
 
-**Data Engineer** with 9+ years building ETL pipelines and data integrations for regulated, high-volume environments, now bringing that legacy experience into the **Lakehouse** world with **Databricks & PySpark**.
+**Databricks Certified Data Engineer** with 9+ years building ETL pipelines and data integrations for regulated, high-volume environments, now bringing that legacy experience into the **Lakehouse** world with **Databricks & PySpark**.
 
 📍 Brazil · 🌎 Open to remote opportunities · 💼 [LinkedIn](https://www.linkedin.com/in/johnserafim)
 
@@ -25,6 +25,16 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 🏅 Certifications
+
+[![Databricks Certified Data Engineer Associate](https://img.shields.io/badge/Databricks%20Certified-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/c26ab22f-35f1-46ff-8858-12963ef8fb6f)
+
+- **Databricks Certified Data Engineer Associate**, Oct 2026 (valid through Oct 2028) · [verify](https://credentials.databricks.com/c26ab22f-35f1-46ff-8858-12963ef8fb6f)
+- **Databricks Academy Accreditation:** AI Agent Fundamentals (2026)
+- **Databricks Knowledge Badges:** Python for Data Engineering · Apache Spark (Intro, Application Development, Stream Processing, Monitoring & Optimization)
+
+🔗 [Full credential wallet](https://credentials.databricks.com/profile/johnserafim/wallet)
 
 ### 📂 Featured projects
 
