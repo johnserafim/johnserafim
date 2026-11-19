@@ -40,7 +40,7 @@
 
 | Project | What it shows |
 |---|---|
-| **Lakehouse Medallion PoC** | Sales data pipeline on Databricks: Bronze → Silver → Gold, Databricks Jobs orchestration, Unity Catalog governance, BI dashboard and 3-month inventory forecast |
+| **[Lakehouse Medallion PoC](https://github.com/johnserafim/lakehouse-medallion-sales-poc)** | Sales data pipeline on Databricks: Bronze → Silver → Gold, Databricks Jobs orchestration, Unity Catalog governance, BI dashboard and 3-month inventory forecast |
 | **From Legacy to Lakehouse** | Side-by-side patterns: how classic DataStage / PL/SQL solutions translate into PySpark on Databricks |
 | **GlosaGuard** | Healthcare SaaS for medical-billing denial analysis, built with FastAPI + PostgreSQL + React |
 
